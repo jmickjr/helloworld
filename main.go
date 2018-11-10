@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/mickventures/hello/cmd"
+import "github.com/mickventures/go/helloworld/cmd"
 
 func main() {
 	cmd.Execute()
